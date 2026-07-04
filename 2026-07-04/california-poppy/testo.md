@@ -35,7 +35,7 @@ Poppy non è un prodotto esclusivo di Anthropic. È stato progettato per funzion
 Se uno stato con migliaia di dipendenti c'è riuscito in meno di un anno, una piccola azienda può farlo molto più in fretta. Non serve un reparto IT: serve iniziare con lo strumento giusto e una richiesta scritta bene.
 
 **8 · CTA**
-Inizia da un compito piccolo. Scrivi POPPY nei commenti: ti mando un prompt pronto da copiare, per far riordinare a Claude i tuoi file e documenti in cartelle ordinate. Un modo concreto per partire in cinque minuti.
+Parti da un caso d'uso concreto. Commenta POPPY e ti invio un prompt pronto all'uso per riorganizzare i tuoi documenti in una struttura di cartelle chiara e coerente. Un primo passo operativo, senza competenze tecniche.
 
 ## Analisi neuromarketing
 
