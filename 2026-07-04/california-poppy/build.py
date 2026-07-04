@@ -11,7 +11,8 @@ ASSETS = f"{HERE}/assets"
 FIN = "/Users/alfredo/Desktop/Progetti/Wulver/wulver-social/05-asset/copertine/studio/finite"
 
 grid = b64(GRID_CLEAN)
-FND = b64(f"{FIN}/scettico.png")
+# Posa founder CTA: variare tra i caroselli (non sempre la stessa). Qui 'aha' (indice alzato = "ecco il punto/la risorsa").
+FND = b64(f"{FIN}/aha.png")
 CAPITOL = b64(f"{ASSETS}/slide2_capitol.jpg")
 POSTER_GOV = b64(f"{ASSETS}/poster_gov.png")
 POSTER_CDT = b64(f"{ASSETS}/poster_cdt.png")

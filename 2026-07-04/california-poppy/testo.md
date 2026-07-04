@@ -11,7 +11,7 @@
 - **5** — card/diagramma: pilota &rarr; rollout statale
 - **6** — card/diagramma: "solo Claude" &rarr; "Claude, Gemini, GPT, Nova" (vendor-agnostic)
 - **7** — nessuna immagine, solo testo
-- **8** — CTA con founder
+- **8** — CTA con founder (posa `aha.png`, indice alzato, variata rispetto a `scettico.png` del carosello Fable 5)
 
 ## Copy
 
