@@ -10,7 +10,7 @@
 - **4** — scroll-through reale della pagina ufficiale CDT su Poppy (cdt.ca.gov/poppy), composito nella cornice
 - **5** — card/diagramma: pilota &rarr; rollout statale
 - **6** — card/diagramma: "solo Claude" &rarr; "Claude, Gemini, GPT, Nova" (vendor-agnostic)
-- **7** — nessuna immagine, solo testo
+- **7** — b-roll reale (mani su laptop, Pexels, licenza libera uso commerciale), composito nella cornice
 - **8** — CTA con founder (posa `aha.png`, indice alzato, variata rispetto a `scettico.png` del carosello Fable 5)
 
 ## Copy
@@ -31,7 +31,7 @@ Il rollout completo è già previsto per questo mese. E non è l'unico caso real
 Poppy non è un prodotto esclusivo di Anthropic. È stato progettato per funzionare con più modelli AI insieme, non legato a un solo fornitore. Claude ha contribuito al suo sviluppo, ma la scelta dello stato è stata quella di non dipendere da un'azienda sola.
 
 **7 · Cosa significa per te**
-Se uno stato con migliaia di dipendenti e procedure complesse è riuscito a passare da pilota a rollout in meno di un anno, una piccola azienda può fare lo stesso molto più in fretta. Non serve un reparto IT dedicato: serve iniziare con lo strumento giusto e una richiesta scritta bene.
+Se uno stato con migliaia di dipendenti c'è riuscito in meno di un anno, una piccola azienda può farlo molto più in fretta. Non serve un reparto IT: serve iniziare con lo strumento giusto e una richiesta scritta bene.
 
 **8 · CTA**
 Vuoi il tuo assistente interno, senza reparto IT? Scrivi POPPY nei commenti: ti mando in DM un prompt pronto per creare un assistente AI interno con Claude, pensato per una piccola azienda.
@@ -72,4 +72,5 @@ Da ora in poi, rispondi alle domande dei dipendenti usando SOLO queste informazi
 - [Governor Newsom announces a first-of-its-kind partnership](https://www.gov.ca.gov/2026/06/29/governor-newsom-announces-a-first-of-its-kind-partnership-providing-anthropic-tools-to-state-agencies-and-improving-services-for-californians/) — comunicato ufficiale, 29 giugno 2026 (screenshot reale in slide 3)
 - [Poppy: California's Digital Assistant](https://www.cdt.ca.gov/poppy/) — pagina ufficiale California Department of Technology, conferma 2.800+ dipendenti/67 dipartimenti, pilota dal 29 settembre 2025, rollout luglio 2026, natura vendor-agnostic (screenshot reale in slide 4)
 - Foto Campidoglio della California: [California State Capitol during blue hour](https://commons.wikimedia.org/wiki/File:California_State_Capitol_during_blue_hour-3982.jpg), Frank Schulenburg, CC BY-SA 4.0
+- B-roll slide 7 (mani su laptop): [Pexels video 4146203](https://www.pexels.com/video/close-up-view-of-person-using-her-laptop-4146203/), licenza Pexels (uso commerciale libero, nessuna attribuzione richiesta). Concept generico, quindi b-roll invece di generato (regola: generico &rarr; b-roll, specifico/azione particolare &rarr; genera con fal.ai).
 - Nota su discrepanza minore: StateScoop riporta "2.600+ utenti/66 dipartimenti" invece di "2.800+/67" — usato il dato della fonte ufficiale CDT come primario.

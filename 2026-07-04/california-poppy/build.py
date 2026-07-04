@@ -16,6 +16,7 @@ FND = b64(f"{FIN}/aha.png")
 CAPITOL = b64(f"{ASSETS}/slide2_capitol.jpg")
 POSTER_GOV = b64(f"{ASSETS}/poster_gov.png")
 POSTER_CDT = b64(f"{ASSETS}/poster_cdt.png")
+POSTER_BROLL = b64(f"{ASSETS}/poster_broll.png")
 
 BODY2 = ("Non parliamo di un'azienda che sperimenta un nuovo tool. Parliamo della California, uno stato con quasi 40 milioni di abitanti, "
          "che ha appena deciso di usare l'intelligenza artificiale nel lavoro quotidiano dei suoi dipendenti pubblici. "
@@ -32,9 +33,8 @@ BODY5 = ("Il rollout completo è già previsto per <span class=\"or\">questo mes
 BODY6 = ("Poppy non è un prodotto esclusivo di Anthropic. È stato progettato per funzionare con più modelli AI insieme, non legato a un solo "
          "fornitore. Claude ha contribuito al suo sviluppo, ma la scelta dello stato è stata quella di <span class=\"or\">non dipendere da "
          "un'azienda sola</span>.")
-BODY7 = ("Se uno stato con migliaia di dipendenti e procedure complesse è riuscito a passare da pilota a rollout in meno di un anno, una piccola "
-         "azienda può fare lo stesso molto più in fretta. Non serve un reparto IT dedicato: serve <span class=\"gr\">iniziare con lo strumento "
-         "giusto e una richiesta scritta bene</span>.")
+BODY7 = ("Se uno stato con migliaia di dipendenti c'è riuscito in meno di un anno, una piccola azienda può farlo molto più in fretta. Non serve un "
+         "reparto IT: serve <span class=\"gr\">iniziare con lo strumento giusto e una richiesta scritta bene</span>.")
 
 S = {}
 S[2] = slide(grid, "Uno stato ha assunto l'IA", img_frame(CAPITOL), BODY2, 1)
@@ -50,7 +50,7 @@ S[6] = slide(grid, "Un dettaglio poco notato",
                   '<span class="chip dim">Solo Claude</span><span class="arrow">&rarr;</span><span class="chip orb">Claude, Gemini, GPT, Nova</span>',
                   "Poppy &egrave; costruito per funzionare con pi&ugrave; modelli, non da un unico fornitore"),
              BODY6, 5)
-S[7] = slide(grid, "Cosa significa per te", "", BODY7, 6)
+S[7] = slide(grid, "Cosa significa per te", img_frame(POSTER_BROLL), BODY7, 6)
 S[8] = stage(grid,
     f'<img class="founder" src="data:image/png;base64,{FND}">'
     f'<div class="eyebrow"><span class="d"></span>Wulver &middot; News AI</div>'
@@ -72,7 +72,8 @@ black_b64 = b64(black_path)
 
 for n, poster_path, real_video, out_name, beat, body in (
     (3, f"{ASSETS}/poster_gov.png", f"{ASSETS}/scroll-gov-6s.mp4", "slide-3-VIDEO.mp4", "L'accordo, in breve", BODY3),
-    (4, f"{ASSETS}/poster_cdt.png", f"{ASSETS}/scroll-cdt-6s.mp4", "slide-4-VIDEO.mp4", "Il primo risultato si chiama Poppy", BODY4),
+    (4, f"{ASSETS}/poster_cdt.png", f"{ASSETS}/scroll-cdt-6s.mp4", "slide-4-VIDEO.mp4", "Il primo risultato: Poppy", BODY4),
+    (7, f"{ASSETS}/poster_broll.png", f"{ASSETS}/broll-7-6s.mp4", "slide-7-VIDEO.mp4", "Cosa significa per te", BODY7),
 ):
     w, h = Image.open(poster_path).size
     white_path = f"{ASSETS}/_probe_white_{n}.png"
