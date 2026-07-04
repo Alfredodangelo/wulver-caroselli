@@ -54,8 +54,8 @@ S[7] = slide(grid, "Cosa significa per te", img_frame(POSTER_BROLL), BODY7, 6)
 S[8] = stage(grid,
     f'<img class="founder" src="data:image/png;base64,{FND}">'
     f'<div class="eyebrow"><span class="d"></span>Wulver &middot; News AI</div>'
-    f'<div class="cta-c"><div class="beat wh">Vuoi il tuo assistente interno, senza reparto IT?</div>'
-    f'<div class="sub" style="margin-top:20px">Scrivi POPPY nei commenti: ti mando in DM un prompt pronto per creare un assistente AI interno con Claude, pensato per una piccola azienda.</div>'
+    f'<div class="cta-c"><div class="beat wh">Inizia da un compito piccolo</div>'
+    f'<div class="sub" style="margin-top:20px">Scrivi POPPY nei commenti: ti mando un prompt pronto da copiare, per far riordinare a Claude i tuoi file e documenti in cartelle ordinate. Un modo concreto per partire in cinque minuti.</div>'
     f'<div class="pill">Commenta POPPY</div></div>'
     f'<div class="foot" style="right:auto">{dots(6, 7)}</div>')
 

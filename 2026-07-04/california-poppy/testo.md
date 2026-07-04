@@ -34,7 +34,7 @@ Poppy non è un prodotto esclusivo di Anthropic. È stato progettato per funzion
 Se uno stato con migliaia di dipendenti c'è riuscito in meno di un anno, una piccola azienda può farlo molto più in fretta. Non serve un reparto IT: serve iniziare con lo strumento giusto e una richiesta scritta bene.
 
 **8 · CTA**
-Vuoi il tuo assistente interno, senza reparto IT? Scrivi POPPY nei commenti: ti mando in DM un prompt pronto per creare un assistente AI interno con Claude, pensato per una piccola azienda.
+Inizia da un compito piccolo. Scrivi POPPY nei commenti: ti mando un prompt pronto da copiare, per far riordinare a Claude i tuoi file e documenti in cartelle ordinate. Un modo concreto per partire in cinque minuti.
 
 ## Analisi neuromarketing
 
@@ -46,26 +46,29 @@ Vuoi il tuo assistente interno, senza reparto IT? Scrivi POPPY nei commenti: ti 
 | 5 | Scarsità/recency (rollout "questo mese") + prova sociale (casi d'uso reali DMV, Sanità) |
 | 6 | Contrarian-trust (il dettaglio che "in pochi hanno notato": non è un prodotto a marchio unico) |
 | 7 | Self-relevance diretta (PMI, non serve reparto IT) |
-| 8 | Micro-commitment (commenta una parola, non un'azione complessa) |
+| 8 | Micro-commitment (commenta una parola) + promessa onesta e a bassa soglia ("un compito piccolo", non "creati un agente": credibilità > hype) |
 
 ## Prompt pronto per la CTA (risorsa da mandare in DM a chi commenta POPPY)
 
+Un prompt reale e fattibile: NON crea un agente/assistente (un prompt da solo non può farlo), fa una
+cosa piccola e concreta, cioè aiutarti a riordinare un elenco di file/documenti in cartelle logiche.
+
 ```
-Sei l'assistente interno di [nome azienda], un'attività che si occupa di [cosa fa la tua azienda].
-Il tuo compito è rispondere alle domande più comuni che ricevono i dipendenti su: orari, procedure
-interne, politiche aziendali, contatti utili, e passaggi operativi ricorrenti (es. come richiedere
-ferie, come compilare una nota spese, a chi rivolgersi per un problema tecnico).
+Ho una lista di file e documenti disordinati che devo organizzare. Te li incollo qui sotto (i nomi,
+e dove serve una breve descrizione del contenuto).
 
-Regole:
-- Rispondi in modo diretto e pratico, senza girarci intorno.
-- Se non conosci la risposta esatta o l'informazione richiesta non ti e' stata fornita, dillo
-  chiaramente e indica a chi rivolgersi internamente, invece di inventare una risposta.
-- Usa un tono professionale ma colloquiale, come un collega esperto che aiuta velocemente.
+Il tuo compito:
+1. Proponi una struttura di cartelle chiara e logica per organizzarli, raggruppandoli nel modo più
+   sensato (per tipo di documento, cliente, progetto o anno: scegli tu il criterio migliore e
+   spiegami perché).
+2. Per ogni file dimmi in quale cartella va.
+3. Se il nome di un file è poco chiaro o incoerente, suggeriscimi un nome migliore e uniforme
+   (stesso stile per tutti, es. AAAA-MM-DD_cliente_tipo).
 
-Ecco le informazioni di base sulla mia azienda che devi conoscere:
-[incolla qui: orari, contatti, 5-10 procedure interne piu' comuni, politiche principali]
+Alla fine dammi l'elenco completo come albero di cartelle, pronto da ricreare sul mio computer.
 
-Da ora in poi, rispondi alle domande dei dipendenti usando SOLO queste informazioni.
+Ecco i file:
+[incolla qui l'elenco dei tuoi file/documenti]
 ```
 
 ## Fonti / crediti
