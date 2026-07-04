@@ -5,6 +5,7 @@
 - **Angolo:** News AI (news-jacking), variante estesa a 8 slide per dare spazio ai tanti numeri concreti della notizia.
 
 ## Visual per slide
+- **1 (cover)** — la compone l'utente in Canva. Immagine pronta+incorniciata: San Francisco City Hall notturno (cupola blu illuminata), cornice+aura arancione applicata con l'app cornici, in `assets/cover-options/cover_sf_cityhall_cornice.png`. Scelta di un edificio governativo diverso dal Campidoglio (che è nella slide 2) per non ripetere il soggetto.
 - **2** — foto reale del Campidoglio della California di notte (Wikimedia Commons, CC BY-SA 4.0, Frank Schulenburg)
 - **3** — scroll-through reale della pagina ufficiale del Governatore (gov.ca.gov), composito nella cornice
 - **4** — scroll-through reale della pagina ufficiale CDT su Poppy (cdt.ca.gov/poppy), composito nella cornice
@@ -75,5 +76,6 @@ Ecco i file:
 - [Governor Newsom announces a first-of-its-kind partnership](https://www.gov.ca.gov/2026/06/29/governor-newsom-announces-a-first-of-its-kind-partnership-providing-anthropic-tools-to-state-agencies-and-improving-services-for-californians/) — comunicato ufficiale, 29 giugno 2026 (screenshot reale in slide 3)
 - [Poppy: California's Digital Assistant](https://www.cdt.ca.gov/poppy/) — pagina ufficiale California Department of Technology, conferma 2.800+ dipendenti/67 dipartimenti, pilota dal 29 settembre 2025, rollout luglio 2026, natura vendor-agnostic (screenshot reale in slide 4)
 - Foto Campidoglio della California: [California State Capitol during blue hour](https://commons.wikimedia.org/wiki/File:California_State_Capitol_during_blue_hour-3982.jpg), Frank Schulenburg, CC BY-SA 4.0
+- Foto cover San Francisco City Hall: [San Francisco City Hall, nighttime](https://commons.wikimedia.org/wiki/File:San_Francisco_City_Hall,_nighttime,_September_2016.jpg), autore Dllu, CC BY-SA 4.0 — richiede attribuzione (mettere "Foto: Dllu / Wikimedia, CC BY-SA 4.0" nei crediti/didascalia).
 - B-roll slide 7 (mani su laptop): [Pexels video 4146203](https://www.pexels.com/video/close-up-view-of-person-using-her-laptop-4146203/), licenza Pexels (uso commerciale libero, nessuna attribuzione richiesta). Concept generico, quindi b-roll invece di generato (regola: generico &rarr; b-roll, specifico/azione particolare &rarr; genera con fal.ai).
 - Nota su discrepanza minore: StateScoop riporta "2.600+ utenti/66 dipartimenti" invece di "2.800+/67" — usato il dato della fonte ufficiale CDT come primario.
