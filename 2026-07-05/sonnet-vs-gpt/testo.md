@@ -1,8 +1,16 @@
 # Carosello "Claude Sonnet 5 vs ChatGPT: quando usare quale" (angolo Confronti)
 
-- **Cover (slide 1):** la compone l'utente in Canva. Immagine pronta: `assets/cover-options/cover_bivio.png` (bivio concettuale, Claude arancione / ChatGPT verde, incorniciata). Headline suggerita: "Claude o ChatGPT? Dipende dalla strada" oppure "Non è chi vince, è quando usarli".
+- **Cover (slide 1):** la compone l'utente in Canva. Immagine pronta: `assets/cover-options/cover_bivio.png` (bivio concettuale con i loghi ufficiali Claude/ChatGPT alle due destinazioni, incorniciata). Headline suggerita: "Claude o ChatGPT? Dipende dalla strada" oppure "Non è chi vince, è quando usarli".
 - **Slide generate:** 2-9 (8 slide). Angolo Confronti, taglio "quando usare quale" (non "chi vince").
-- **Asset:** card di confronto (concetto astratto software), niente foto/video. Founder CTA: posa `reveal-5` (variata rispetto a scettico/aha dei caroselli precedenti).
+- **Asset (immagini + video + loghi, non solo card):** loghi ufficiali Claude e ChatGPT come badge "Meglio con" su ogni slide-caso; video reali (Pexels) e una foto reale nel riquadro di ogni caso d'uso; card sintesi con loghi. Founder CTA: posa `reveal-5` (variata rispetto a scettico/aha).
+  - slide 2: due loghi affiancati (Claude vs ChatGPT)
+  - slide 3: **video** mani su Gmail (inbox pieno) + badge Claude
+  - slide 4: **video** coppia che usa un'app su laptop + badge ChatGPT
+  - slide 5: **foto** desk multi-device (dati tra sistemi) + badge Claude
+  - slide 6: **video** creazione contenuti + badge ChatGPT
+  - slide 7: **video** lavoro su laptop/documenti + badge Claude
+  - slide 8: card sintesi a due colonne con loghi
+  - slide 9: CTA con founder
 
 ## Copy
 
@@ -64,3 +72,8 @@ Checklist "Quale AI per quale compito" (compito → strumento consigliato oggi):
 - Fasce abbonamento consumer a confronto: https://claude.com/pricing · https://chatgpt.com/pricing/
 
 **Nota onestà (dalla ricerca):** nessun benchmark pubblico confronta direttamente Sonnet 5 e GPT-5.6 sullo stesso test (i due vendor pubblicano prove diverse e GPT-5.6 è in preview). Per questo il carosello NON contiene classifiche di punteggi o affermazioni "X è più bravo di Y sul coding": solo differenze di disponibilità, costo, integrazioni e capacità (creare vs capire), tutte verificate.
+
+**Crediti asset visivi:**
+- Logo Claude (simbolo): Wikimedia Commons, File:Claude AI symbol.svg, CC0 (marchio Anthropic, uso editoriale).
+- Logo ChatGPT/OpenAI (nodo): Wikimedia Commons, File:OpenAI logo 2025 (symbol).svg, reso in bianco via Chrome (uso editoriale del marchio).
+- Video/foto casi d'uso: Pexels (licenza libera, uso commerciale, no attribuzione): video 6183189 (inbox/laptop), 8061058 (coppia + laptop), + b-roll "crea" e "agente"; foto 14982340 (desk multi-device).
