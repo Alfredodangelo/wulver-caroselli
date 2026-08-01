@@ -1,0 +1,13 @@
+Salva questo post: ti serve la prossima volta che esporti i dati dal gestionale.
+
+Ti è mai capitato di aprire quell'export e trovarti un file da buttare? Intestazioni a metà, righe doppie, importi salvati come testo che non si sommano. E lì parte l'ora persa a sistemare tutto a mano.
+
+Non serve installare niente e non serve saper usare le formule. Carichi il file dentro Claude, gli dici in italiano cosa non va, e te lo restituisce pulito. Non uno screenshot: il file .xlsx vero, da riaprire, con le formule dentro e il grafico se glielo chiedi.
+
+Nelle slide ci sono i tre passi esatti, compresa l'unica spunta da attivare la prima volta. Funziona anche col piano gratuito, fino a 30 MB per file.
+
+Una cosa che quasi nessuno ti dice: su file molto grandi o con formule complicate può sbagliare, e non ti avvisa. Prima di mandare qualcosa al commercialista, ricontrolla i totali. Ti fa risparmiare l'ora di lavoro, non la responsabilità.
+
+Mandalo a chi passa le serate a sistemare fogli. E se vuoi la richiesta esatta da copiare e incollare, commenta EXCEL e te la giro in DM.
+
+#intelligenzaartificiale #excel #pmiitaliane #produttivita #aiperaziende

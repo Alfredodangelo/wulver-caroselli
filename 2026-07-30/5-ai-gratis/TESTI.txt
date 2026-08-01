@@ -1,0 +1,30 @@
+====================  COPERTINA · TITOLI (etichetta piccola / riga grande verde)  ====================
+
+1)  CINQUE AI GRATIS
+    CHE VALGONO DI PIU'
+
+2)  5 AI GRATIS
+    CHE USO OGNI GIORNO
+
+3)  NON PAGARE
+    QUESTE AI SONO GRATIS
+
+====================  DIDASCALIA (copia-incolla)  ====================
+
+Cinque AI gratis che valgono più di tante a pagamento. Le uso ogni giorno e quasi nessuno le sfrutta.
+
+1. NotebookLM (Google): carichi i tuoi PDF, appunti, anche video YouTube, e diventa un'AI che conosce quei documenti. Risponde citando dove l'ha letto e te li riassume pure in audio. Gratis: 50 domande e 3 audio al giorno.
+
+2. Perplexity: la ricerca con le fonti. Come Google ma ti dà la risposta con i link da cui l'ha presa, così verifichi. Gratis col modello pieno, circa 10 domande ogni 5 ore.
+
+3. DeepSeek: come ChatGPT ma senza tetto giornaliero, tutto gratis. Una cosa onesta: i dati stanno su server in Cina, quindi non dargli roba sensibile.
+
+4. Gemini (Google): il tuttofare, ci butti dentro interi documenti e vive dentro Gmail e Documenti. Piano gratis molto generoso.
+
+5. Claude (Anthropic): per email, testi e documenti lunghi è quello che scrive più naturale e umano. Gratis circa 20 messaggi al giorno.
+
+La parte onesta: il gratis ha dei tetti, limiti di messaggi e code nelle ore di punta. Paghi solo se ci sbatti contro ogni giorno. Per quasi tutti, il gratis basta.
+
+Salva il post così te li ricordi. E se li vuoi tutti con i link diretti, commenta GRATIS e ti mando la lista.
+
+#intelligenzaartificiale #aigratis #produttivita #tecnologia #strumentiai

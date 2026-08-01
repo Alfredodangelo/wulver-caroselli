@@ -1,0 +1,13 @@
+Conosci qualcuno che vive dentro la casella di posta? Mandagli questo carosello.
+
+Pochi lo sanno, ma Claude si collega a Gmail e Google Calendar in due minuti, gratis anche sul piano base. Da lì cerca nelle mail, ti prepara le risposte e ti riempie l'agenda al posto tuo.
+
+Un esempio vero: "Trova le mail di questo cliente degli ultimi tre mesi, riassumimi dove siamo e mettimi in agenda la chiamata di verifica." Lo fa in un colpo solo, mentre tu fai altro.
+
+Nelle slide trovi come si attiva, passo per passo, e l'esempio esatto da provare.
+
+Una cosa importante, detta con onestà: le mail non le manda. Le scrive e te le lascia in bozza, l'invio resta sempre tuo. E occhio a cosa gli fai leggere: un allegato ricevuto da uno sconosciuto può contenere istruzioni nascoste, quindi collega solo quello che ti serve. Lo dice Anthropic stessa.
+
+Se conosci uno che passa la giornata dentro le mail, condividigli questo post: gli cambia la settimana. E se vuoi le 5 richieste che uso ogni giorno, commenta MAIL e te le mando.
+
+#intelligenzaartificiale #gmail #produttivita #pmiitaliane #automazione

@@ -1,0 +1,13 @@
+Commenta PDF e ti mando la richiesta già scritta, da copiare e incollare.
+
+Hai presente il cassetto pieno di ricevute e scansioni storte? Foto sparse, pagine in disordine, niente che si trova quando serve. Si sistema in un file solo.
+
+Butti dentro a Claude tutte le foto o gli scan e gli dici: "Uniscile in un unico PDF, raddrizza le pagine e mettile in ordine." Anche venti alla volta. Poi il bello: legge il testo dentro le immagini, quindi cerchi "fattura marzo" o un importo e te lo trova nel mucchio, anche se era una foto. E se vuoi, ti tira fuori date e importi già in tabella, pronti da incollare in un foglio.
+
+Detto con onestà: l'OCR ogni tanto sbaglia. Su calligrafia storta o scansioni sbiadite può leggere male un numero e non te lo segnala. Sugli importi che contano, ricontrolla a occhio.
+
+Funziona anche col piano gratuito. Salva il post così ce l'hai la prossima volta che ti serve.
+
+Vuoi il prompt esatto? Commenta PDF e te lo giro in DM.
+
+#intelligenzaartificiale #pdf #digitalizzazione #pmiitaliane #produttivita

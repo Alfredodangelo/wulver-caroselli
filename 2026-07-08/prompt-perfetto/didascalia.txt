@@ -1,0 +1,11 @@
+Commenta PROMPT e ti mando in DM lo schema che uso per far uscire dall'AI risposte davvero utili.
+
+Ti è mai capitato di chiedere qualcosa all'AI e ricevere una risposta generica, di quelle che potevi scrivere anche da solo? Quasi sempre non è colpa dello strumento. È che gliel'abbiamo chiesto male.
+
+L'AI non legge nel pensiero, lavora con quello che le dai. Cambi la domanda e cambia la risposta, spesso in modo netto. In queste slide trovi i 6 pezzi che fanno la differenza: il ruolo, il compito preciso, il contesto, il formato, le regole e un esempio da imitare. Cose pratiche, non teoria, che valgono che tu gestisca un ristorante, uno studio o un negozio online.
+
+Ho messo tutto in un template già pronto: sostituisci le parti tra parentesi e in due minuti hai un prompt fatto bene, da riusare per qualsiasi richiesta.
+
+Commenta PROMPT e te lo giro io in DM.
+
+#intelligenzaartificiale #aiperaziende #pmiitaliane #promptengineering #chatgpt

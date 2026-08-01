@@ -1,2 +1,5 @@
 .DS_Store
 Thumbs.db
+
+# File sorgente grezzi troppo pesanti per GitHub (>100MB): restano sul disco, non in git
+2026-07-28/excel-pulito/assets/order.mov
