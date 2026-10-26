@@ -1,0 +1,31 @@
+La usi per qualcuna di queste cose? Scrivilo qui sotto.
+
+⠀
+
+Dal 23 ottobre è in vigore il decreto italiano che attua l'AI Act europeo (D.Lgs. 7 ottobre 2026 n. 179). Se ne è parlato poco, e quasi sempre come se riguardasse solo chi costruisce i sistemi. Riguarda chi li usa, anche un'azienda da tre persone.
+
+⠀
+
+Le cose che cambiano e che vedo più spesso 👇
+
+👤 Assunzioni, licenziamenti, provvedimenti e valutazioni li deve decidere una persona. Se decide il software, la decisione non vale, e il consenso del lavoratore non basta a sistemarla
+📄 Chi viene valutato ha diritto a una spiegazione comprensibile, compreso quanto ha pesato l'AI
+💬 Se un cliente scrive a un chatbot, va avvisato che non sta parlando con una persona
+🎓 Chi dà l'AI ai propri dipendenti deve informarli e formarli sui rischi
+🏢 Vale anche per le aziende piccole: conta l'uso, non la dimensione
+
+⠀
+
+La parte che vedo sbagliare più spesso è la prima. Non è il robot che licenzia: è il software che filtra i curriculum, mette un punteggio, e poi la persona firma quello che ha deciso lui. Quello è già decidere.
+
+⠀
+
+Non sono un avvocato e questo non è un parere legale. È quello che ho cambiato io nei sistemi che costruisco, e le domande che farei al mio consulente se avessi un'azienda.
+
+⠀
+
+Sono Alfredo, costruisco operatori AI per aziende piccole. Scrivi quale di queste cinque ti tocca e ne parliamo.
+
+⠀
+
+#aiact #intelligenzaartificiale #pmi #lavoro #normativa #wulver
